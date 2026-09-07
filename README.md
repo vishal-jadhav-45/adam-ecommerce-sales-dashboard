@@ -42,6 +42,10 @@ Two related tables power the report:
 - **DAX** — measures for Amount, Profit, AOV, and Quantity aggregations
 - **Data Modeling** — relationship between Orders and Details tables
 
+## Dashboard Overview
+<img width="1367" height="741" alt="Screenshot 2026-09-08 001930" src="https://github.com/user-attachments/assets/14e49b10-59d7-4906-bd5f-6c388b51e44d" />
+
+
 ## Key Insights
 
 - Profit and sales trends by month/quarter reveal seasonal performance patterns
